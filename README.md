@@ -40,7 +40,6 @@ Como estaremos analisando esses requisitos deixamos que o design seja <b>decidid
    - Axios
    - Styled Components
  <br/>
- <br/>
  
 - Organização do webapp
    - <b>1º View</b> 
