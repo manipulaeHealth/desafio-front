@@ -35,26 +35,29 @@ Como estaremos analisando esses requisitos deixamos que o design seja <b>decidid
 ## Requisitos 😇
 
 - Bibliotecas e patterns <u>Indispensáveis</u>
- - ReactJs ou ReactNative for web
- - Redux
- - Axios
- - Styled Components
+   - ReactJs ou ReactNative for web
+   - Redux
+   - Axios
+   - Styled Components
+ <br/>
+ <br/>
  
 - Organização do webapp
-- <b>1º View</b> 
+   - <b>1º View</b> 
   - deverá apresentar a lista das principais músicas do momento listadas na Deezer
   - também deve existir um campo de pesquisa por texto onde podemos pesquisar por álbum, artista, ou título musical.
   - Quando realizar alguma pesquisa, a listagem inicial deve ser substituída pela listagem referente a pesquisa. (Usar o mesmo componente de listagem)
   - Os items da lista devem apresentar:
-    \* Os dados da música como (capa do álbum, título, cantor, duração);
-    \* Um botão para acessar a musica completa no Deezer;
-    \* Um botão de play/pause para escutar a prévia da música;
-    \* Um botão para adicionar a música na lista de músicas favoritas;
-    
-- <b>2º View</b> 
-  -  será apresentada a lista com as músicas escolhidas pelo usuário na tela principal. A listagem deve ser semelhante a da tela inicial, porem deve mostrar o botão para remover da lista de favoritos
-  
- - Orientações
+    - Os dados da música como (capa do álbum, título, cantor, duração);
+    - Um botão para acessar a musica completa no Deezer;
+    - Um botão de play/pause para escutar a prévia da música;
+    - Um botão para adicionar a música na lista de músicas favoritas;<br/><br/>
+
+   - <b>2º View</b> 
+   - será apresentada a lista com as músicas escolhidas pelo usuário na tela principal. A listagem deve ser semelhante a da tela inicial, porem deve mostrar o botão para remover da lista de favoritos<br/><br/>
+   
+ 
+- Orientações
   - Fique a vontade para escolher utilizar Hooks ou classes, mas não os misture.
   - Use e Abuse do Redux! Precisamos saber o seu nível de familiaridade com ele.
   - A listagem de músicas favoritas deve estar contida em uma store do Redux, porem se quiser implementar algo para salvar no navegador a lista, seria bem legal, mas não é obrigatório.
