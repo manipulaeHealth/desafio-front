@@ -65,6 +65,7 @@ Como estaremos analisando esses requisitos deixamos que o design seja <b>decidid
 
 ## Prazo de entrega 🤓
 
-O desafio deve ser realizado em 3 dias a partir da data de envio do desafio, o gerenciamento do tempo e também sera um fator de análise.
+O desafio deve ser realizado em 6 dias a partir da data de envio do desafio, o gerenciamento do tempo e também sera um fator de análise.
+IMPORTANTE, CASO NAO CONCLUA A TEMPO, NÃO DEIXE DE ENVIAR O QUE DESENVOLVEU NESTE TEMPO!
 
 Bom código!
